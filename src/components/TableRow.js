@@ -43,4 +43,5 @@ const TableRow = ({ row, level, onPercent, onValue }) => {
   );
 };
 
+
 export default TableRow;
